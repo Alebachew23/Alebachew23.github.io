@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, ሰላም ጤና ይስጥልኝ
 
-I’m a PhD candidate in the final stages of my research in genomics and host-pathogen interactions.
+
+Hello, ሰላም ጤና ይስጥልኝ,I’m a PhD candidate in the final stages of my research in genomics and host-pathogen interactions.
 
 Previously, i was [WHO/TDR fellow](https://tdr.who.int/home/our-work/strengthening-research-capacity/clinical-research-and-development-fellowship) at [Infectious Disease Data Observatory](https://www.iddo.org/)] where i used Population Genomics and Bioinformatics approaches to study Plasmodium vivax in Ethiopia. As part of the fellowship
 
