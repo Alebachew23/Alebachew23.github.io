@@ -15,7 +15,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Integrative Biology, Computational Biology, Neglected Tropical Disease Research # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -55,7 +55,7 @@ rss_icon: false
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -238,6 +238,12 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/teaching.md
+  - _data/cv.yml
+  - _data/repositories.yml
+  - _pages/projects.md
+  - _pages/profiles.md
+  - _pages/dropdown.md
+  - _pages/cv.md 
 keep_files:
   - CNAME
   - .nojekyll
