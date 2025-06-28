@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Integrative Biology Computational Biology Neglected Tropical Disease Research
+subtitle: 
 
 profile:
   align: right
