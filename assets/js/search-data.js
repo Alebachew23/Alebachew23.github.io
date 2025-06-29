@@ -63,11 +63,11 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "post-a-distill-style-blog-post",
+      },{id: "post-when-biotech-startups-fail-where-does-the-data-go",
         
-          title: "a distill-style blog post",
+          title: "When Biotech Startups Fail, Where Does the Data Go?",
         
-        description: "an example of a distill-style blog post and main elements",
+        description: "A look at what happens to scientific data when biotech startups go under",
         section: "Posts",
         handler: () => {
           
