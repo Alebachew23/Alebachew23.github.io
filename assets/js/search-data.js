@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-when-biotech-startups-fail-where-does-the-data-go",
+        },{id: "post-bioiformatics-blogs",
+        
+          title: "Bioiformatics blogs",
+        
+        description: "A list of blogs with Bioinformatics content",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Bioinformatics-blogs/";
+          
+        },
+      },{id: "post-when-biotech-startups-fail-where-does-the-data-go",
         
           title: "When Biotech Startups Fail, Where Does the Data Go?",
         
