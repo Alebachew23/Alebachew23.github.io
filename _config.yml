@@ -274,6 +274,7 @@ exclude:
   - _posts/2024-04-28-post-citation.md
   - _posts/2024-12-04-photo-gallery.md
   - _posts/2025-03-26-plotly.md
+  - _posts/2024-01-26-geojson-map.md
    
 keep_files:
   - CNAME
