@@ -41,7 +41,8 @@ toc:
     #   - name: Example Child Subsection 2
   - name: Introduction
   - name: Blogs
-  - name: Resources 
+  - name: Resources
+  - name: Research Papers
 
 
 # Below is an example of injecting additional post-specific styles.
@@ -65,7 +66,7 @@ _styles: >
 
 ## Introduction
 
-This a compilation of  blogs and several resources that i have collected over the years. 
+This are a compilation of  blogs and several resources that i have collected over the years. 
 
 ---
 
@@ -88,22 +89,36 @@ This a compilation of  blogs and several resources that i have collected over th
 15. [Bactopia](https://bactopia.github.io/latest/blog/)
 16. [Rebecca Barter](https://rebeccabarter.com/)
 17. [Curation of Genomic sequence data for deposition to a public data repository](https://www.nlm.nih.gov/ncbi/workshops/AfricaCDC_Summer2024/workshop-details.html)
+18. [CHATOMICS](https://divingintogeneticsandgenomics.com/post/bioinformatics-is-not-just-statistics/?ck_subscriber_id=1928535962&utm_source=convertkit&utm_medium=email&utm_campaign=what%27s%20the%20p-value%20and%20log2Fold%20change%20to%20use?%20Bioinformatics%20is%20not%20(just)%20statistics%20-%2013678968)
+19. 
 
 
 ---
 
 ## Resources 
 
-a. [Data visualization](https://www.amazon.com/ggplot2-Elegant-Graphics-Data-Analysis/dp/0387981403?ck_subscriber_id=1928535962&utm_source=convertkit&utm_medium=email&utm_campaign=8%20links%20to%20bookmark%20for%20better%20data%20visualization%20-%2014488854
-)
-b. [Cookbook for R](http://www.cookbook-r.com/Graphs/?ck_subscriber_id=1928535962&utm_source=convertkit&utm_medium=email&utm_campaign=8%20links%20to%20bookmark%20for%20better%20data%20visualization%20-%2014488854
-)
-c. [Data Visualization A practical introduction](https://socviz.co/?ck_subscriber_id=1928535962&utm_source=convertkit&utm_medium=email&utm_campaign=8%20links%20to%20bookmark%20for%20better%20data%20visualization%20-%2014488854)
-d. [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/?ck_subscriber_id=1928535962&utm_source=convertkit&utm_medium=email&utm_campaign=8%20links%20to%20bookmark%20for%20better%20data%20visualization%20-%2014488854)
-e. [Data Visualization workshop](https://sabahzero.github.io/dataviz/)
-f. [Ten simple rules to colorize biological data visualization](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008259&ck_subscriber_id=1928535962&utm_source=convertkit&utm_medium=email&utm_campaign=8%20links%20to%20bookmark%20for%20better%20data%20visualization%20-%2014488854)
-g. [Data visualization A view of every points of view column](https://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html?ck_subscriber_id=1928535962&utm_source=convertkit&utm_medium=email&utm_campaign=8%20links%20to%20bookmark%20for%20better%20data%20visualization%20-%2014488854)
+1. [Data visualization](https://www.amazon.com/ggplot2-Elegant-Graphics-Data-Analysis/dp/0387981403?ck_subscriber_id=1928535962&utm_source=convertkit&utm_medium=email&utm_campaign=8%20links%20to%20bookmark%20for%20better%20data%20visualization%20-%2014488854)
 
+2. [Cookbook for R](http://www.cookbook-r.com/Graphs/?ck_subscriber_id=1928535962&utm_source=convertkit&utm_medium=email&utm_campaign=8%20links%20to%20bookmark%20for%20better%20data%20visualization%20-%2014488854)
+
+3. [Data Visualization: A Practical Introduction](https://socviz.co/?ck_subscriber_id=1928535962&utm_source=convertkit&utm_medium=email&utm_campaign=8%20links%20to%20bookmark%20for%20better%20data%20visualization%20-%2014488854)
+
+4. [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/?ck_subscriber_id=1928535962&utm_source=convertkit&utm_medium=email&utm_campaign=8%20links%20to%20bookmark%20for%20better%20data%20visualization%20-%2014488854)
+
+5. [Data Visualization Workshop](https://sabahzero.github.io/dataviz/)
+
+6. [Ten Simple Rules to Colorize Biological Data Visualization](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008259&ck_subscriber_id=1928535962&utm_source=convertkit&utm_medium=email&utm_campaign=8%20links%20to%20bookmark%20for%20better%20data%20visualization%20-%2014488854)
+
+7. [Data Visualization: A View of Every Points of View Column](https://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html?ck_subscriber_id=1928535962&utm_source=convertkit&utm_medium=email&utm_campaign=8%20links%20to%20bookmark%20for%20better%20data%20visualization%20-%2014488854)
+8. [Genomic Data Visualization](https://jef.works/genomic-data-visualization-2024/)
+9. 
+
+---
+
+## Research Papers
+
+1. [Ten quick tips for avoiding pitfalls in multi-omics data integration analyses](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011224&ck_subscriber_id=1928535962&utm_source=convertkit&utm_medium=email&utm_campaign=what%27s%20the%20p-value%20and%20log2Fold%20change%20to%20use?%20Bioinformatics%20is%20not%20(just)%20statistics%20-%2013678968)
+2. 
 
 
 
