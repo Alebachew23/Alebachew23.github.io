@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "post-bioiformatics-blogs",
+        },{id: "post-misc-blogs",
+        
+          title: "Misc Blogs",
+        
+        description: "Miscellaneous tools and websites",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Misc-blogs/";
+          
+        },
+      },{id: "post-bioiformatics-blogs",
         
           title: "Bioiformatics blogs",
         
